@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-switchboxd",
+  "version": "0.0.1",
+  "description": "A Homebridge plugin for Blebox SwitchboxD",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "blebox",
+    "switchboxd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onfoot/homebridge-switchboxd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onfoot/homebridge-switchboxd/issues"
+  },
+  "homepage": "https://github.com/onfoot/homebridge-switchboxd",
+  "engines": {
+    "node": ">=10.0.0",
+    "homebridge": ">=0.4.45"
+  }
+}
